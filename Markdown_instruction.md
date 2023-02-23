@@ -218,6 +218,7 @@ origin  https://github.com/LevPermakov/Remote_1.git (push)
 git remote add origin_1 https://github.com/LevPermakov/Remote_1.git
 git push -u origin_1 main
 ```
+, где -u (upstream).
 В удаленном репозитории появилась информация:
 ```
 Markdown_instruction.md
